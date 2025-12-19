@@ -1,5 +1,5 @@
 ---
-title: 'The Existential Angst of a Semicolon'
+title: 'The Existentialist Angst of a Semicolon'
 description: |
   An intimate look into the mind of a semicolon as it grapples with its relevance in a changing world.
   It fears becoming a digital appendix, a relic from a more structured, syntactical time.

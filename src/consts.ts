@@ -1,9 +1,9 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Saral Theme'
+export const SITE_TITLE = "Codegarage"
 export const SITE_DESCRIPTION =
-	'A simple theme for personal blog sites, created for Astro framework'
+	'a blog about writing code and living by a life-long programmer'
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
@@ -13,7 +13,7 @@ export const SITE_BASE = '/saral-theme-astro'
 export const SocialLinks = [
 	{
 		name: 'GitHub',
-		url: 'https://github.com/yashjawale',
+		url: 'https://github.com/codewithkuro',
 	},
 	{
 		name: 'LinkedIn',
@@ -21,11 +21,7 @@ export const SocialLinks = [
 	},
 	{
 		name: 'X / Twitter',
-		url: 'https://twitter.com/imyashjawale',
-	},
-	{
-		name: 'Instagram',
-		url: 'https://instagram.com/imyashjawale',
+		url: 'https://twitter.com/kurosouza',
 	},
 ]
 
